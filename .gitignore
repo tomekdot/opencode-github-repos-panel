@@ -1,0 +1,4 @@
+node_modules/
+check-local.mjs
+*.log
+.DS_Store
